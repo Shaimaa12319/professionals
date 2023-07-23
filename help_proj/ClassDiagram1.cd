@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApplication1.AdminAccount" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBAAAgAAACAAABIAAAGgIAACACEAEAAAAAIAAQBBAAA=</HashCode>
+      <FileName>AdminAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.AdminLogin" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MJAEAAEAACAAABAAABCAAAACAAAAAAAAABIIAwBAAAA=</HashCode>
+      <FileName>AdminLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.ReportEmployeeAccount" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAYAACAAAhAAAACAABACBMA4AAAAAEAEAQBAAQA=</HashCode>
+      <FileName>ReportEmployeeAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.OrderUsers" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MIAQAAEAACAAABAQAACAAAgCAAAAAAIAEAAACQBAAAA=</HashCode>
+      <FileName>OrderUsers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.LaborsAccount" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAASAACAAABACAACAAECSAAAIAEQAUAAQAQBAgAA=</HashCode>
+      <FileName>LaborsAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.DetailsOrder" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/xAAAAAgACAAABACgACAAACCYAACAAAgAAACIQHAAAA=</HashCode>
+      <FileName>DetailsOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Program" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Report" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MCAAAQAAACAAABAAAAHAAAACAAg4BwAAAAIAAQBAAAA=</HashCode>
+      <FileName>Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Login" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gpAEAgUAACAAABIAgBCAIAACAAAAAAAEABIIAwBAAAQ=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.btn_Users_Account" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MhAEAAUEACAAADAhgACAABACQgAAAAABAQAQAQRCAAQ=</HashCode>
+      <FileName>UsersAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.WriteNewPassword" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAAHAAABCAAAAAAAAEAIAAQAAAAA=</HashCode>
+      <FileName>WriteNewPassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

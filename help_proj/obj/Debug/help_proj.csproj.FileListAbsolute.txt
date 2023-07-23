@@ -1,0 +1,132 @@
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\help_proj\help_proj\bin\Debug\help_proj.exe.config
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\help_proj\help_proj\bin\Debug\help_proj.exe
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\help_proj\help_proj\bin\Debug\help_proj.pdb
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\help_proj\help_proj\obj\Debug\help_proj.csprojResolveAssemblyReference.cache
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\help_proj\help_proj\obj\Debug\WindowsFormsApplication1.frm_create_acc.resources
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\help_proj\help_proj\obj\Debug\WindowsFormsApplication1.frm_login.resources
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\help_proj\help_proj\obj\Debug\help_proj.csproj.GenerateResource.Cache
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\help_proj\help_proj\obj\Debug\help_proj.exe
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\help_proj\help_proj\obj\Debug\help_proj.pdb
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\help_proj\help_proj\obj\Debug\WindowsFormsApplication1.frm_order.resources
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\help_proj\help_proj\obj\Debug\WindowsFormsApplication1.labors.resources
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\help_proj\help_proj\obj\Debug\WindowsFormsApplication1.orders.resources
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Employee.resources
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\help_proj\help_proj\obj\Debug\WindowsFormsApplication1.orderEx.resources
+C:\Users\MC\OneDrive\Documents\Visual Studio 2012\Projects\Tuntic University Project\help_proj\help_proj\help_proj\bin\Debug\help_proj.exe.config
+C:\Users\MC\OneDrive\Documents\Visual Studio 2012\Projects\Tuntic University Project\help_proj\help_proj\help_proj\obj\Debug\help_proj.exe
+C:\Users\MC\OneDrive\Documents\Visual Studio 2012\Projects\Tuntic University Project\help_proj\help_proj\help_proj\obj\Debug\help_proj.pdb
+C:\Users\MC\OneDrive\Documents\Visual Studio 2012\Projects\Tuntic University Project\help_proj\help_proj\help_proj\bin\Debug\help_proj.exe
+C:\Users\MC\OneDrive\Documents\Visual Studio 2012\Projects\Tuntic University Project\help_proj\help_proj\help_proj\bin\Debug\help_proj.pdb
+C:\Users\MC\OneDrive\Documents\Visual Studio 2012\Projects\Tuntic University Project\help_proj\help_proj\help_proj\obj\Debug\help_proj.csprojResolveAssemblyReference.cache
+C:\Users\MC\OneDrive\Documents\Visual Studio 2012\Projects\Tuntic University Project\help_proj\help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Employee.resources
+C:\Users\MC\OneDrive\Documents\Visual Studio 2012\Projects\Tuntic University Project\help_proj\help_proj\help_proj\obj\Debug\WindowsFormsApplication1.frm_create_acc.resources
+C:\Users\MC\OneDrive\Documents\Visual Studio 2012\Projects\Tuntic University Project\help_proj\help_proj\help_proj\obj\Debug\WindowsFormsApplication1.frm_login.resources
+C:\Users\MC\OneDrive\Documents\Visual Studio 2012\Projects\Tuntic University Project\help_proj\help_proj\help_proj\obj\Debug\WindowsFormsApplication1.frm_order.resources
+C:\Users\MC\OneDrive\Documents\Visual Studio 2012\Projects\Tuntic University Project\help_proj\help_proj\help_proj\obj\Debug\WindowsFormsApplication1.labors.resources
+C:\Users\MC\OneDrive\Documents\Visual Studio 2012\Projects\Tuntic University Project\help_proj\help_proj\help_proj\obj\Debug\WindowsFormsApplication1.orderEx.resources
+C:\Users\MC\OneDrive\Documents\Visual Studio 2012\Projects\Tuntic University Project\help_proj\help_proj\help_proj\obj\Debug\WindowsFormsApplication1.orders.resources
+C:\Users\MC\OneDrive\Documents\Visual Studio 2012\Projects\Tuntic University Project\help_proj\help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MC\OneDrive\Documents\Visual Studio 2012\Projects\Tuntic University Project\help_proj\help_proj\help_proj\obj\Debug\help_proj.csproj.GenerateResource.Cache
+C:\Users\MC\OneDrive\Documents\Visual Studio 2012\Projects\Tuntic University Project\help_proj\help_proj\help_proj\obj\Debug\WindowsFormsApplication1.WriteNewPassword.resources
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\bin\Debug\help_proj.exe.config
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\obj\Debug\help_proj.exe
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\obj\Debug\help_proj.pdb
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\bin\Debug\help_proj.exe
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\bin\Debug\help_proj.pdb
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\obj\Debug\help_proj.csprojResolveAssemblyReference.cache
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\obj\Debug\help_proj.csproj.GenerateResource.Cache
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.AdminAccount.resources
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.EmployeeJob.resources
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.DetailsOrder.resources
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.OrderUsers.resources
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\bin\Debug\Database1.mdf
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\bin\Debug\Database1_log.ldf
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Users_Account.resources
+C:\Users\Redwan\Desktop\shai(2)\2help_proj\help_proj\bin\Debug\help_proj.exe.config
+C:\Users\Redwan\Desktop\shai(2)\2help_proj\help_proj\obj\Debug\help_proj.exe
+C:\Users\Redwan\Desktop\shai(2)\2help_proj\help_proj\obj\Debug\help_proj.pdb
+C:\Users\Redwan\Desktop\shai(2)\2help_proj\help_proj\bin\Debug\Database1.mdf
+C:\Users\Redwan\Desktop\shai(2)\2help_proj\help_proj\bin\Debug\Database1_log.ldf
+C:\Users\Redwan\Desktop\shai(2)\2help_proj\help_proj\bin\Debug\help_proj.exe
+C:\Users\Redwan\Desktop\shai(2)\2help_proj\help_proj\bin\Debug\help_proj.pdb
+C:\Users\Redwan\Desktop\shai(2)\2help_proj\help_proj\obj\Debug\help_proj.csprojResolveAssemblyReference.cache
+C:\Users\Redwan\Desktop\shai(2)\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.AdminAccount.resources
+C:\Users\Redwan\Desktop\shai(2)\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.EmployeeJob.resources
+C:\Users\Redwan\Desktop\shai(2)\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Users_Account.resources
+C:\Users\Redwan\Desktop\shai(2)\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Redwan\Desktop\shai(2)\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.OrderUsers.resources
+C:\Users\Redwan\Desktop\shai(2)\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.DetailsOrder.resources
+C:\Users\Redwan\Desktop\shai(2)\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Redwan\Desktop\shai(2)\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.WriteNewPassword.resources
+C:\Users\Redwan\Desktop\shai(2)\2help_proj\help_proj\obj\Debug\help_proj.csproj.GenerateResource.Cache
+C:\Users\Redwan\Desktop\2help_proj\help_proj\bin\Debug\Database1.mdf
+C:\Users\Redwan\Desktop\2help_proj\help_proj\bin\Debug\Database1_log.ldf
+C:\Users\Redwan\Desktop\2help_proj\help_proj\bin\Debug\help_proj.exe.config
+C:\Users\Redwan\Desktop\2help_proj\help_proj\bin\Debug\help_proj.exe
+C:\Users\Redwan\Desktop\2help_proj\help_proj\bin\Debug\help_proj.pdb
+C:\Users\Redwan\Desktop\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.AdminAccount.resources
+C:\Users\Redwan\Desktop\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.EmployeeJob.resources
+C:\Users\Redwan\Desktop\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Users_Account.resources
+C:\Users\Redwan\Desktop\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Redwan\Desktop\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.OrderUsers.resources
+C:\Users\Redwan\Desktop\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.DetailsOrder.resources
+C:\Users\Redwan\Desktop\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Redwan\Desktop\2help_proj\help_proj\obj\Debug\help_proj.csproj.GenerateResource.Cache
+C:\Users\Redwan\Desktop\2help_proj\help_proj\obj\Debug\help_proj.exe
+C:\Users\Redwan\Desktop\2help_proj\help_proj\obj\Debug\help_proj.pdb
+C:\Users\Redwan\Desktop\2help_proj\help_proj\obj\Debug\help_proj.csprojResolveAssemblyReference.cache
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.show_.resources
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\bin\Debug\help_proj.exe.manifest
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\bin\Debug\help_proj.application
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\obj\Debug\help_proj.exe.manifest
+C:\Users\Redwan\Documents\Visual Studio 2012\Projects\2help_proj\help_proj\obj\Debug\help_proj.application
+G:\2help_proj\help_proj\bin\Debug\help_proj.exe.config
+G:\2help_proj\help_proj\obj\Debug\help_proj.exe
+G:\2help_proj\help_proj\obj\Debug\help_proj.pdb
+G:\2help_proj\help_proj\bin\Debug\Database1.mdf
+G:\2help_proj\help_proj\bin\Debug\Database1_log.ldf
+G:\2help_proj\help_proj\bin\Debug\help_proj.exe.manifest
+G:\2help_proj\help_proj\bin\Debug\help_proj.application
+G:\2help_proj\help_proj\bin\Debug\help_proj.exe
+G:\2help_proj\help_proj\bin\Debug\help_proj.pdb
+G:\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.AdminAccount.resources
+G:\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.EmployeeJob.resources
+G:\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.show_.resources
+G:\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Users_Account.resources
+G:\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Login.resources
+G:\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.OrderUsers.resources
+G:\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.DetailsOrder.resources
+G:\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\2help_proj\help_proj\obj\Debug\help_proj.csproj.GenerateResource.Cache
+G:\2help_proj\help_proj\obj\Debug\help_proj.exe.manifest
+G:\2help_proj\help_proj\obj\Debug\help_proj.application
+C:\Users\Redwan\Documents\iutt\2help_proj\help_proj\bin\Debug\help_proj.exe.config
+C:\Users\Redwan\Documents\iutt\2help_proj\help_proj\obj\Debug\help_proj.exe
+C:\Users\Redwan\Documents\iutt\2help_proj\help_proj\obj\Debug\help_proj.pdb
+G:\2help_proj\help_proj\obj\Debug\help_proj.csproj.AssemblyReference.cache
+G:\2help_proj\help_proj\obj\Debug\help_proj.csproj.CoreCompileInputs.cache
+C:\Users\shaim\Desktop\2help_proj\help_proj\bin\Debug\Database1.mdf
+C:\Users\shaim\Desktop\2help_proj\help_proj\bin\Debug\Database1_log.ldf
+C:\Users\shaim\Desktop\2help_proj\help_proj\bin\Debug\help_proj.exe.config
+C:\Users\shaim\Desktop\2help_proj\help_proj\bin\Debug\help_proj.exe.manifest
+C:\Users\shaim\Desktop\2help_proj\help_proj\bin\Debug\help_proj.application
+C:\Users\shaim\Desktop\2help_proj\help_proj\bin\Debug\help_proj.exe
+C:\Users\shaim\Desktop\2help_proj\help_proj\bin\Debug\help_proj.pdb
+C:\Users\shaim\Desktop\2help_proj\help_proj\obj\Debug\help_proj.csprojAssemblyReference.cache
+C:\Users\shaim\Desktop\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.AdminAccount.resources
+C:\Users\shaim\Desktop\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.EmployeeJob.resources
+C:\Users\shaim\Desktop\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.show_.resources
+C:\Users\shaim\Desktop\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Users_Account.resources
+C:\Users\shaim\Desktop\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\shaim\Desktop\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.OrderUsers.resources
+C:\Users\shaim\Desktop\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.DetailsOrder.resources
+C:\Users\shaim\Desktop\2help_proj\help_proj\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\shaim\Desktop\2help_proj\help_proj\obj\Debug\help_proj.csproj.GenerateResource.cache
+C:\Users\shaim\Desktop\2help_proj\help_proj\obj\Debug\help_proj.csproj.CoreCompileInputs.cache
+C:\Users\shaim\Desktop\2help_proj\help_proj\obj\Debug\help_proj.exe.manifest
+C:\Users\shaim\Desktop\2help_proj\help_proj\obj\Debug\help_proj.application
+C:\Users\shaim\Desktop\2help_proj\help_proj\obj\Debug\help_proj.exe
+C:\Users\shaim\Desktop\2help_proj\help_proj\obj\Debug\help_proj.pdb
